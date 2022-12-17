@@ -1,2 +1,1 @@
-# about-me
-Informaition about me
+https://ekaterinapuzanova.github.io/about-me/
